@@ -4,7 +4,7 @@
 ## Project  Description
 This Moringa school project About Me, Project portfolio, intales a little about my background, my current intrests/hobbies/skills. Besides that it really brings out the developer in me giving you an idea of what i can do with the coding knowledge i have learnt in the period of one week. 
 ## Link to live site on GitHub Pages
-
+https://machariamark.github.io/Portfolio/
 ## Known Bugs
 No known bugs.
 ## Support and contact details
