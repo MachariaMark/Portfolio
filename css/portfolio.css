@@ -9,3 +9,8 @@ body {
 .moon {
   color: darkred;
 }
+#p1 {
+  padding: 120px;
+  background: url(../images/skyline.jpeg)no-repeat center;
+  background-size:  cover;
+}
